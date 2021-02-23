@@ -9,3 +9,4 @@ R=(N//A)
 
 print(f"The no of apples single students got,{D}")
 print(f"The number of apples remain in the basket, {R} ")
+#abc
