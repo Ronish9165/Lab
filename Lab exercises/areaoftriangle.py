@@ -1,4 +1,4 @@
-#write a program that reads the length of the base and the height of a right-angled trianlgle and prints the area.
+#Q.2 write a program that reads the length of the base and the height of a right-angled trianlgle and prints the area.
 # Every  number is given on a seperate line.
 
 height=float(input("Enter the value of height:"))

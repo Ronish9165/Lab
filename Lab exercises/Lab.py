@@ -1,4 +1,4 @@
-#write a program that takes three numbers and prints their sum. Every number is given on a seperate line.
+#Q.1 write a program that takes three numbers and prints their sum. Every number is given on a seperate line.
 
 num1=int(input('enter the first number:'))
 num2=int(input('enter the second number:'))
