@@ -1,4 +1,4 @@
-# My name is Ronish, anda i'm  19.
+# My name is ......., anda i'm .....years old.
 
 name=str(input("enter your name:"))
 age=int(input("enter your age:"))
