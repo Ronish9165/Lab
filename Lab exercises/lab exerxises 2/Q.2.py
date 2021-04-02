@@ -1,5 +1,5 @@
 '''
-write a program which accepts marks of four subjects and disp[aly atotal marks, percentage and grade.
+write a program which accepts marks of four subjects and disp[aly total marks, percentage and grade.
 Hint: More than 70% =Distinction, More than 60% =First, More than 40% =Pass, Less than 40% = Fail.
 '''
 
