@@ -30,7 +30,7 @@ print("Program end")
 # print(c)
 
 
-# Functions having no parameter and with return type.
+# Functions having parameter and with return type.
 # def sum(x,y):
 #     return x+y
 # a = int(input("Enter the first number:"))
